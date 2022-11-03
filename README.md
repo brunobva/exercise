@@ -1,0 +1,20 @@
+# Exercise 
+
+Need to create a infrastructure at AWS using Terraform, using Makefile to call the commands to run and apply it.
+
+On this repo, you will find a Dockerfile, I've prepared a Dockerfile to run Terraform from it, so the host doesn't need to have Terraform installed just Docker #Need to include this verification
+
+## How to use the Makefile
+So, I am honest to say, that I've started use this today (shame on me, because it is so useful), but I've create the makefile to build the Docker image and after that start to run the Terraform commands.
+
+* Please your need to replace your AWS_ACCESS_KEY and AWS_SECRET_KEY on this file before run it.
+
+* Unfortunately I am not working with this kind operation on my daily jobs and I felt a little "rusty" 
+
+* I really hope this files do not offend you guys, but if I got this opportunity, I'll do all efforts to became a "Master" on these things. For now, I need to study a lot on a thing that is not so enthusiastic for me... but lets see.
+
+Really appreciate your help and attention on this opportunity.
+Hope everythings works properly.
+
+Bruno Moraes
+git: https://git.com/brunobva
