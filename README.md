@@ -9,11 +9,11 @@ So, I am honest to say, that I've started use this today (shame on me, because i
 
 ``` make apply 
     Using this command you will start the process of Docker build and also Terraform commands.
-``
 
-``` make destroy
+
+``` make destroy ```
     You will destroy with Terraform destroy command all the resources created.
-```
+
 * Please your need to replace your AWS_ACCESS_KEY and AWS_SECRET_KEY on this file before run it.
 
 * Unfortunately I am not working with this kind operation on my daily jobs and I felt a little "rusty" 
