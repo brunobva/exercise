@@ -1,6 +1,8 @@
 # Exercise 
 
-Need to create a infrastructure at AWS using Terraform, using Makefile to call the commands to run and apply it.
+Need to create a infrastructure at AWS using Terraform, using Makefile to call the commands to run and apply it. 
+
+I know that is missing some configuration that was requested, but I hope you can get my knowledges with Terraform #Need to improve about modules
 
 On this repo, you will find a Dockerfile, I've prepared a Dockerfile to run Terraform from it, so the host doesn't need to have Terraform installed just Docker #Need to include this verification
 
