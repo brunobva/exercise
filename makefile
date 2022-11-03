@@ -17,4 +17,4 @@ apply:
 	@$(tf) apply exercisePlan
 
 destroy:
-	@$(tf) destroy 
+	@$(tf) destroy -auto-approve
