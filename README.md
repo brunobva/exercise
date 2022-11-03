@@ -16,6 +16,10 @@ So, I am honest to say, that I've started use this today (shame on me, because i
 `make destroy`
     You will destroy with Terraform destroy command all the resources created.
 
+Just to make sure everything will run properly, please run this command at root folder (before git clone):
+
+`source set-vars.sh`
+
 * Please your need to replace your AWS_ACCESS_KEY and AWS_SECRET_KEY on this file before run it.
 
 * Unfortunately I am not working with this kind operation on my daily jobs and I felt a little "rusty" 
